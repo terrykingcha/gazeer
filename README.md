@@ -1,6 +1,8 @@
 # Gazeer - A cli for gaze. 
 
-[![Build Status](https://travis-ci.org/schnittstabil/gazeer.svg?branch=master)](https://travis-ci.org/schnittstabil/gazeer)
+[![npm version](http://img.shields.io/npm/v/gazeer.svg)](https://www.npmjs.com/package/gazeer)
+[![Build Status](https://travis-ci.org/terrykingcha/gazeer.svg?branch=master)](https://travis-ci.org/terrykingcha/gazeer)
+
 
 **Watch some files, do some things**
 
